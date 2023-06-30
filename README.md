@@ -13,3 +13,5 @@ The renovatebot works with non-js languages such as Java.
 ## Notes on how to use this repository
 
 Note that all of these projects are simply instantiated with defaults and little to no work has been done on them. You should _not_ be using any of the code in this repository. The only files you should use as guides are the [renovate config file](./.github/renovate.json5) and the [root level `package.json`](./package.json).
+
+Note that renovate [creates an "issue"](https://github.com/joe-s-avaya/auto-dependancy-updates/issues/3) that you can use to run and rerun checks for it. You should leave this open.
